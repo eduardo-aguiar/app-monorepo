@@ -8,7 +8,7 @@ export function GreetingCard({ name }: { name: string }) {
       <p className="mt-3 mb-6 text-sm leading-6 text-zinc-400">
         Monorepo Turborepo rodando. Modulo <code>greeting</code> via API publica.
       </p>
-      <Button label="Funciona!" />
+      <Button>Funciona!</Button>
     </section>
   );
 }

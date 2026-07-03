@@ -1,7 +1,7 @@
 {
   "name": "app-monorepo",
   "private": true,
-  "packageManager": "pnpm@10.18.3",
+  "packageManager": "pnpm@11.7.0",
   "engines": {
     "node": ">=20"
   },

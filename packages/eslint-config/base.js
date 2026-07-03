@@ -11,6 +11,7 @@ export const base = [
       "**/dist/**",
       "**/.next/**",
       "**/node_modules/**",
+      "**/next-env.d.ts",
       "**/*.config.js",
       "**/*.config.mjs",
       "**/*.config.ts",

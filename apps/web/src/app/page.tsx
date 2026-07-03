@@ -3,14 +3,7 @@ import { GreetingCard } from "@/modules/greeting";
 
 export default function HomePage() {
   return (
-    <main
-      style={{
-        minHeight: "100vh",
-        display: "grid",
-        placeItems: "center",
-        padding: 24,
-      }}
-    >
+    <main className="grid min-h-screen place-items-center p-6">
       <GreetingCard name="dev" />
     </main>
   );
